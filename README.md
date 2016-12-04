@@ -12,7 +12,7 @@ Simple Windows program that allows you to use the ssh command directly from CMD.
 
 5. Then click environment variables and select PATH under "User Variables for your-username".
 
-6. Click Edit, then in the popup window New and enter "C:\Program Files (x86)\putty" (without the quotation marks) into the text box.
+6. Click Edit, then in the popup window click New and enter "C:\Program Files (x86)\putty" (without the quotation marks) into the text box.
 
 7. Then click OK on all of the windows to close them.
 
