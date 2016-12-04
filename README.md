@@ -16,4 +16,4 @@ A very simple Windows program that allows you to use the ssh command directly fr
 
 7. Then click OK on all of the windows to close them.
 
-__Now you can use ssh from the windows comand-line, just like you would on Linux. Just type ssh username@hostname.__
+__Now you can use ssh from the windows comand-line, just like you would on Linux. Just type "ssh username@hostname".__
