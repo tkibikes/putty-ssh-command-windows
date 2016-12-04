@@ -1,7 +1,7 @@
 # putty-ssh-command-windows
 Simple Windows program that allows you to use the ssh command directly from CMD.
 
-# Set Up:
+## Set Up:
 1. Download ssh.bat, and, if you you have not already done so, "putty.exe" from http://www.putty.org/
 
 2. Create a folder in "C:\Program Files (x86)" named "Putty".
@@ -16,4 +16,4 @@ Simple Windows program that allows you to use the ssh command directly from CMD.
 
 7. Then click OK on all of the windows to close them.
 
-Now you can use ssh from the windows comand-line!
+__Now you can use ssh from the windows comand-line!__
